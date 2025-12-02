@@ -14,6 +14,7 @@ use App\Http\Controllers\Backend\AdminController;
 use App\Http\Controllers\Backend\MerchantController;
 use App\Http\Controllers\Frontend\EsewaController;
 use App\Http\Controllers\Frontend\SearchController;
+use App\Http\Controllers\ChatController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -35,7 +36,7 @@ route::get('/merchant-register', function(){
     return view('auth.merchant_register');
 })->name('merchant.register')->middleware('logout');
 route::get('/logout',[HomeController::class,'logout'])->name('user.logout');
-route::post('/login',[LoginController::class,'authenticate'])->name('login');
+// route::post('/login',[LoginController::class,'authenticate'])->name('login');
 route::post('/register',[RegisterController::class,'authenticate'])->name('custom.register');
 route::post('/change-password',[PasswordController::class, 'update'])->name('change.password');
 route::post('/store-latlng',[MapController::class,'store'])->name('store.latlng');
@@ -44,6 +45,11 @@ route::post('/store-latlng',[MapController::class,'store'])->name('store.latlng'
 
 route::group([], function(){
     route::get('/',[HomeController::class, 'index'])->name('home');
+    // Route to show the chat widget page
+    Route::get('/chatbot', [ChatController::class, 'showWidget'])->name('chatbot');
+
+    // Route to handle BotMan messages (widget endpoint)
+    Route::match(['get', 'post'], '/botman', [ChatController::class, 'handle'])->name('botman.handle');
     route::group(['middleware'=>['auth', 'customer']], function(){
         route::get('/profile',[HomeController::class,'user_profile'])->name('user.profile');
         route::get('/dashboard',[HomeController::class,'dashboard'])->name('user.dashboard');
@@ -137,3 +143,10 @@ route::group(['prefix'=>'merchant','middleware'=>'merchant'],function(){
     route::get('/address/creat',[MerchantController::class, 'address_edit'])->name('merchant.address.edit');
     route::post('/address/store',[MerchantController::class,'address_store'])->name('merchant.address.store');
 });
+
+
+// Route::get('/chatbot', function () {
+//     dd('here');
+//     return view('frontend.chatbot');
+// });
+

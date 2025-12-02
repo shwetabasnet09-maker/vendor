@@ -81,4 +81,9 @@ class HomeController extends Controller
         save_address($request);
         return redirect()->route('user.dashboard')->with(['success'=>true, 'message'=>'Address updated successfully.']);
     }
+
+    public function chatbot()
+    {
+       return view('frontend.chatbot');
+    }
 }

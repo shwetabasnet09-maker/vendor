@@ -1,0 +1,1673 @@
+[
+  {
+    "name": "Afghanistan",
+    "iso2": "AF",
+    "states": [
+      { "code": "AF-BAL", "name": "Balkh" },
+      { "code": "AF-KAB", "name": "Kabul" },
+      { "code": "AF-KAN", "name": "Kandahar" },
+      { "code": "AF-HER", "name": "Herat" }
+    ]
+  },
+  {
+    "name": "Albania",
+    "iso2": "AL",
+    "states": [
+      { "code": "AL-01", "name": "Berat" },
+      { "code": "AL-02", "name": "Durrës" },
+      { "code": "AL-03", "name": "Elbasan" },
+      { "code": "AL-04", "name": "Tirana" }
+    ]
+  },
+  {
+    "name": "Algeria",
+    "iso2": "DZ",
+    "states": [
+      { "code": "DZ-01", "name": "Adrar" },
+      { "code": "DZ-16", "name": "Algiers" },
+      { "code": "DZ-31", "name": "Oran" }
+    ]
+  },
+  {
+    "name": "Andorra",
+    "iso2": "AD",
+    "states": [
+      { "code": "AD-02", "name": "Canillo" },
+      { "code": "AD-03", "name": "Encamp" },
+      { "code": "AD-05", "name": "Ordino" }
+    ]
+  },
+  {
+    "name": "Angola",
+    "iso2": "AO",
+    "states": [
+      { "code": "AO-BGO", "name": "Bengo" },
+      { "code": "AO-LUA", "name": "Luanda" },
+      { "code": "AO-CNN", "name": "Cunene" }
+    ]
+  },
+  {
+    "name": "Argentina",
+    "iso2": "AR",
+    "states": [
+      { "code": "AR-B", "name": "Buenos Aires" },
+      { "code": "AR-C", "name": "Ciudad Autónoma de Buenos Aires" },
+      { "code": "AR-M", "name": "Mendoza" }
+    ]
+  },
+  {
+    "name": "Armenia",
+    "iso2": "AM",
+    "states": [
+      { "code": "AM-ER", "name": "Yerevan" },
+      { "code": "AM-AR", "name": "Ararat" },
+      { "code": "AM-SH", "name": "Shirak" }
+    ]
+  },
+  {
+    "name": "Australia",
+    "iso2": "AU",
+    "states": [
+      { "code": "AU-NSW", "name": "New South Wales" },
+      { "code": "AU-QLD", "name": "Queensland" },
+      { "code": "AU-VIC", "name": "Victoria" },
+      { "code": "AU-WA", "name": "Western Australia" }
+    ]
+  },
+  {
+    "name": "Austria",
+    "iso2": "AT",
+    "states": [
+      { "code": "AT-1", "name": "Burgenland" },
+      { "code": "AT-3", "name": "Lower Austria" },
+      { "code": "AT-9", "name": "Vienna" }
+    ]
+  },
+  {
+    "name": "Azerbaijan",
+    "iso2": "AZ",
+    "states": [
+      { "code": "AZ-BA", "name": "Baku" },
+      { "code": "AZ-GA", "name": "Ganja" },
+      { "code": "AZ-LA", "name": "Lankaran" }
+    ]
+  },
+  {
+    "name": "Bahamas",
+    "iso2": "BS",
+    "states": [
+      { "code": "BS-NP", "name": "New Providence" },
+      { "code": "BS-GC", "name": "Grand Cay" }
+    ]
+  },
+  {
+    "name": "Bahrain",
+    "iso2": "BH",
+    "states": [
+      { "code": "BH-13", "name": "Capital Governorate" },
+      { "code": "BH-14", "name": "Southern Governorate" }
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "iso2": "BD",
+    "states": [
+      { "code": "BD-A", "name": "Barishal" },
+      { "code": "BD-B", "name": "Chattogram" },
+      { "code": "BD-F", "name": "Rangpur" }
+    ]
+  },
+  {
+    "name": "Barbados",
+    "iso2": "BB",
+    "states": [
+      { "code": "BB-01", "name": "Christ Church" },
+      { "code": "BB-03", "name": "Saint Andrew" }
+    ]
+  },
+  {
+    "name": "Belarus",
+    "iso2": "BY",
+    "states": [
+      { "code": "BY-HR", "name": "Grodno" },
+      { "code": "BY-MI", "name": "Minsk" }
+    ]
+  },
+  {
+    "name": "Belgium",
+    "iso2": "BE",
+    "states": [
+      { "code": "BE-VAN", "name": "Antwerp" },
+      { "code": "BE-WHT", "name": "Hainaut" }
+    ]
+  },
+  {
+    "name": "Belize",
+    "iso2": "BZ",
+    "states": [
+      { "code": "BZ-BZ", "name": "Belize District" },
+      { "code": "BZ-CY", "name": "Cayo District" }
+    ]
+  },
+  {
+    "name": "Benin",
+    "iso2": "BJ",
+    "states": [
+      { "code": "BJ-AK", "name": "Atakora" },
+      { "code": "BJ-LI", "name": "Littoral" }
+    ]
+  },
+  {
+    "name": "Bhutan",
+    "iso2": "BT",
+    "states": [
+      { "code": "BT-11", "name": "Paro" },
+      { "code": "BT-12", "name": "Thimphu" }
+    ]
+  },
+  {
+    "name": "Bolivia",
+    "iso2": "BO",
+    "states": [
+      { "code": "BO-C", "name": "Cochabamba" },
+      { "code": "BO-L", "name": "La Paz" },
+      { "code": "BO-S", "name": "Santa Cruz" }
+    ]
+  }
+  {
+    "name": "Bosnia and Herzegovina",
+    "iso2": "BA",
+    "states": [
+      { "code": "BA-BIH", "name": "Bosnia-Podrinje" },
+      { "code": "BA-SRP", "name": "Republika Srpska" },
+      { "code": "BA-FBH", "name": "Federation of Bosnia and Herzegovina" }
+    ]
+  },
+  {
+    "name": "Botswana",
+    "iso2": "BW",
+    "states": [
+      { "code": "BW-CE", "name": "Central District" },
+      { "code": "BW-KG", "name": "Kgalagadi District" },
+      { "code": "BW-KL", "name": "Kgatleng District" }
+    ]
+  },
+  {
+    "name": "Brazil",
+    "iso2": "BR",
+    "states": [
+      { "code": "BR-SP", "name": "São Paulo" },
+      { "code": "BR-RJ", "name": "Rio de Janeiro" },
+      { "code": "BR-MG", "name": "Minas Gerais" },
+      { "code": "BR-BA", "name": "Bahia" }
+    ]
+  },
+  {
+    "name": "Brunei",
+    "iso2": "BN",
+    "states": [
+      { "code": "BN-BM", "name": "Brunei-Muara" },
+      { "code": "BN-TU", "name": "Tutong" }
+    ]
+  },
+  {
+    "name": "Bulgaria",
+    "iso2": "BG",
+    "states": [
+      { "code": "BG-01", "name": "Blagoevgrad" },
+      { "code": "BG-16", "name": "Sofia" },
+      { "code": "BG-23", "name": "Varna" }
+    ]
+  },
+  {
+    "name": "Burkina Faso",
+    "iso2": "BF",
+    "states": [
+      { "code": "BF-01", "name": "Boucle du Mouhoun" },
+      { "code": "BF-09", "name": "Centre" },
+      { "code": "BF-10", "name": "Centre-Est" }
+    ]
+  },
+  {
+    "name": "Burundi",
+    "iso2": "BI",
+    "states": [
+      { "code": "BI-BB", "name": "Bubanza" },
+      { "code": "BI-BL", "name": "Bujumbura Rural" },
+      { "code": "BI-BM", "name": "Bujumbura Mairie" }
+    ]
+  },
+  {
+    "name": "Cambodia",
+    "iso2": "KH",
+    "states": [
+      { "code": "KH-12", "name": "Phnom Penh" },
+      { "code": "KH-17", "name": "Siem Reap" },
+      { "code": "KH-19", "name": "Takeo" }
+    ]
+  },
+  {
+    "name": "Cameroon",
+    "iso2": "CM",
+    "states": [
+      { "code": "CM-AD", "name": "Adamawa" },
+      { "code": "CM-CE", "name": "Centre" },
+      { "code": "CM-LT", "name": "Littoral" }
+    ]
+  },
+  {
+    "name": "Canada",
+    "iso2": "CA",
+    "states": [
+      { "code": "CA-ON", "name": "Ontario" },
+      { "code": "CA-QC", "name": "Quebec" },
+      { "code": "CA-BC", "name": "British Columbia" },
+      { "code": "CA-AB", "name": "Alberta" },
+      { "code": "CA-MB", "name": "Manitoba" }
+    ]
+  },
+  {
+    "name": "Cape Verde",
+    "iso2": "CV",
+    "states": [
+      { "code": "CV-BV", "name": "Boa Vista" },
+      { "code": "CV-SV", "name": "São Vicente" }
+    ]
+  },
+  {
+    "name": "Central African Republic",
+    "iso2": "CF",
+    "states": [
+      { "code": "CF-BGF", "name": "Bangui" },
+      { "code": "CF-LB", "name": "Lobaye" }
+    ]
+  },
+  {
+    "name": "Chad",
+    "iso2": "TD",
+    "states": [
+      { "code": "TD-BA", "name": "Batha" },
+      { "code": "TD-LC", "name": "Lac" }
+    ]
+  },
+  {
+    "name": "Chile",
+    "iso2": "CL",
+    "states": [
+      { "code": "CL-RM", "name": "Santiago Metropolitan" },
+      { "code": "CL-VS", "name": "Valparaíso" }
+    ]
+  },
+  {
+    "name": "China",
+    "iso2": "CN",
+    "states": [
+      { "code": "CN-BJ", "name": "Beijing" },
+      { "code": "CN-SH", "name": "Shanghai" },
+      { "code": "CN-GD", "name": "Guangdong" },
+      { "code": "CN-SC", "name": "Sichuan" }
+    ]
+  },
+  {
+    "name": "Colombia",
+    "iso2": "CO",
+    "states": [
+      { "code": "CO-ANT", "name": "Antioquia" },
+      { "code": "CO-BOL", "name": "Bolívar" },
+      { "code": "CO-CCU", "name": "Cundinamarca" }
+    ]
+  },
+  {
+    "name": "Comoros",
+    "iso2": "KM",
+    "states": [
+      { "code": "KM-A", "name": "Anjouan" },
+      { "code": "KM-G", "name": "Grande Comore" }
+    ]
+  },
+  {
+    "name": "Congo (Brazzaville)",
+    "iso2": "CG",
+    "states": [
+      { "code": "CG-BZV", "name": "Brazzaville" },
+      { "code": "CG-11", "name": "Bouenza" }
+    ]
+  },
+  {
+    "name": "Congo (Democratic Republic)",
+    "iso2": "CD",
+    "states": [
+      { "code": "CD-KN", "name": "Kinshasa" },
+      { "code": "CD-KA", "name": "Katanga" }
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "iso2": "CR",
+    "states": [
+      { "code": "CR-A", "name": "Alajuela" },
+      { "code": "CR-SJ", "name": "San José" }
+    ]
+  }
+  {
+    "name": "Croatia",
+    "iso2": "HR",
+    "states": [
+      { "code": "HR-01", "name": "Zagreb" },
+      { "code": "HR-07", "name": "Split-Dalmatia" },
+      { "code": "HR-19", "name": "Dubrovnik-Neretva" }
+    ]
+  },
+  {
+    "name": "Cuba",
+    "iso2": "CU",
+    "states": [
+      { "code": "CU-03", "name": "La Habana" },
+      { "code": "CU-05", "name": "Villa Clara" },
+      { "code": "CU-07", "name": "Santiago de Cuba" }
+    ]
+  },
+  {
+    "name": "Cyprus",
+    "iso2": "CY",
+    "states": [
+      { "code": "CY-01", "name": "Nicosia" },
+      { "code": "CY-02", "name": "Limassol" },
+      { "code": "CY-03", "name": "Larnaca" }
+    ]
+  },
+  {
+    "name": "Czech Republic",
+    "iso2": "CZ",
+    "states": [
+      { "code": "CZ-10", "name": "Prague" },
+      { "code": "CZ-20", "name": "Central Bohemian" },
+      { "code": "CZ-31", "name": "South Bohemian" }
+    ]
+  },
+  {
+    "name": "Denmark",
+    "iso2": "DK",
+    "states": [
+      { "code": "DK-84", "name": "Capital Region" },
+      { "code": "DK-82", "name": "Central Denmark" },
+      { "code": "DK-81", "name": "North Denmark" }
+    ]
+  },
+  {
+    "name": "Djibouti",
+    "iso2": "DJ",
+    "states": [
+      { "code": "DJ-AS", "name": "Ali Sabieh" },
+      { "code": "DJ-DJ", "name": "Djibouti" }
+    ]
+  },
+  {
+    "name": "Dominica",
+    "iso2": "DM",
+    "states": [
+      { "code": "DM-02", "name": "Saint Andrew" },
+      { "code": "DM-04", "name": "Saint George" }
+    ]
+  },
+  {
+    "name": "Dominican Republic",
+    "iso2": "DO",
+    "states": [
+      { "code": "DO-01", "name": "Distrito Nacional" },
+      { "code": "DO-02", "name": "Azua" },
+      { "code": "DO-03", "name": "La Vega" }
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "iso2": "EC",
+    "states": [
+      { "code": "EC-A", "name": "Azuay" },
+      { "code": "EC-G", "name": "Guayas" },
+      { "code": "EC-P", "name": "Pichincha" }
+    ]
+  },
+  {
+    "name": "Egypt",
+    "iso2": "EG",
+    "states": [
+      { "code": "EG-C", "name": "Cairo" },
+      { "code": "EG-GZ", "name": "Giza" },
+      { "code": "EG-ALX", "name": "Alexandria" }
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "iso2": "SV",
+    "states": [
+      { "code": "SV-AH", "name": "Ahuachapán" },
+      { "code": "SV-CA", "name": "Cabañas" },
+      { "code": "SV-SM", "name": "San Miguel" }
+    ]
+  },
+  {
+    "name": "Equatorial Guinea",
+    "iso2": "GQ",
+    "states": [
+      { "code": "GQ-BN", "name": "Bioko Norte" },
+      { "code": "GQ-BS", "name": "Bioko Sur" }
+    ]
+  },
+  {
+    "name": "Eritrea",
+    "iso2": "ER",
+    "states": [
+      { "code": "ER-AN", "name": "Anseba" },
+      { "code": "ER-DK", "name": "Debubawi Keyih Bahri" }
+    ]
+  },
+  {
+    "name": "Estonia",
+    "iso2": "EE",
+    "states": [
+      { "code": "EE-37", "name": "Harju" },
+      { "code": "EE-39", "name": "Hiiu" }
+    ]
+  },
+  {
+    "name": "Eswatini",
+    "iso2": "SZ",
+    "states": [
+      { "code": "SZ-HH", "name": "Hhohho" },
+      { "code": "SZ-LU", "name": "Lubombo" }
+    ]
+  },
+  {
+    "name": "Ethiopia",
+    "iso2": "ET",
+    "states": [
+      { "code": "ET-AA", "name": "Addis Ababa" },
+      { "code": "ET-AM", "name": "Amhara" },
+      { "code": "ET-OR", "name": "Oromia" }
+    ]
+  },
+  {
+    "name": "Fiji",
+    "iso2": "FJ",
+    "states": [
+      { "code": "FJ-C", "name": "Central Division" },
+      { "code": "FJ-W", "name": "Western Division" }
+    ]
+  },
+  {
+    "name": "Finland",
+    "iso2": "FI",
+    "states": [
+      { "code": "FI-18", "name": "Uusimaa" },
+      { "code": "FI-19", "name": "Varsinais-Suomi" }
+    ]
+  },
+  {
+    "name": "France",
+    "iso2": "FR",
+    "states": [
+      { "code": "FR-IDF", "name": "Île-de-France" },
+      { "code": "FR-NAQ", "name": "Nouvelle-Aquitaine" },
+      { "code": "FR-PAC", "name": "Provence-Alpes-Côte d’Azur" }
+    ]
+  },
+  {
+    "name": "Gabon",
+    "iso2": "GA",
+    "states": [
+      { "code": "GA-1", "name": "Estuaire" },
+      { "code": "GA-2", "name": "Haut-Ogooué" }
+    ]
+  }
+{
+    "name": "Gambia",
+    "iso2": "GM",
+    "states": [
+      { "code": "GM-B", "name": "Banjul" },
+      { "code": "GM-L", "name": "Lower River" },
+      { "code": "GM-N", "name": "North Bank" }
+    ]
+  },
+  {
+    "name": "Georgia",
+    "iso2": "GE",
+    "states": [
+      { "code": "GE-TB", "name": "Tbilisi" },
+      { "code": "GE-IM", "name": "Imereti" },
+      { "code": "GE-SZ", "name": "Samegrelo-Zemo Svaneti" }
+    ]
+  },
+  {
+    "name": "Germany",
+    "iso2": "DE",
+    "states": [
+      { "code": "DE-BW", "name": "Baden-Württemberg" },
+      { "code": "DE-BY", "name": "Bavaria" },
+      { "code": "DE-BE", "name": "Berlin" },
+      { "code": "DE-HH", "name": "Hamburg" }
+    ]
+  },
+  {
+    "name": "Ghana",
+    "iso2": "GH",
+    "states": [
+      { "code": "GH-AA", "name": "Greater Accra" },
+      { "code": "GH-AH", "name": "Ashanti" },
+      { "code": "GH-BA", "name": "Brong-Ahafo" }
+    ]
+  },
+  {
+    "name": "Greece",
+    "iso2": "GR",
+    "states": [
+      { "code": "GR-A", "name": "Attica" },
+      { "code": "GR-B", "name": "Central Greece" },
+      { "code": "GR-C", "name": "Central Macedonia" }
+    ]
+  },
+  {
+    "name": "Grenada",
+    "iso2": "GD",
+    "states": [
+      { "code": "GD-01", "name": "Saint Andrew" },
+      { "code": "GD-02", "name": "Saint David" }
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "iso2": "GT",
+    "states": [
+      { "code": "GT-AV", "name": "Alta Verapaz" },
+      { "code": "GT-CM", "name": "Chimaltenango" },
+      { "code": "GT-PR", "name": "El Progreso" }
+    ]
+  },
+  {
+    "name": "Guinea",
+    "iso2": "GN",
+    "states": [
+      { "code": "GN-KA", "name": "Kankan" },
+      { "code": "GN-KO", "name": "Kindia" }
+    ]
+  },
+  {
+    "name": "Guinea-Bissau",
+    "iso2": "GW",
+    "states": [
+      { "code": "GW-BS", "name": "Bissau" },
+      { "code": "GW-BA", "name": "Bafatá" }
+    ]
+  },
+  {
+    "name": "Guyana",
+    "iso2": "GY",
+    "states": [
+      { "code": "GY-DE", "name": "Demerara-Mahaica" },
+      { "code": "GY-BA", "name": "Barima-Waini" }
+    ]
+  },
+  {
+    "name": "Haiti",
+    "iso2": "HT",
+    "states": [
+      { "code": "HT-AR", "name": "Artibonite" },
+      { "code": "HT-CE", "name": "Centre" }
+    ]
+  },
+  {
+    "name": "Honduras",
+    "iso2": "HN",
+    "states": [
+      { "code": "HN-AT", "name": "Atlántida" },
+      { "code": "HN-CH", "name": "Choluteca" }
+    ]
+  },
+  {
+    "name": "Hungary",
+    "iso2": "HU",
+    "states": [
+      { "code": "HU-BU", "name": "Budapest" },
+      { "code": "HU-HE", "name": "Heves" }
+    ]
+  },
+  {
+    "name": "Iceland",
+    "iso2": "IS",
+    "states": [
+      { "code": "IS-1", "name": "Capital Region" },
+      { "code": "IS-2", "name": "Southern Peninsula" }
+    ]
+  },
+  {
+    "name": "India",
+    "iso2": "IN",
+    "states": [
+      { "code": "AP", "name": "Andhra Pradesh" },
+      { "code": "AR", "name": "Arunachal Pradesh" },
+      { "code": "AS", "name": "Assam" },
+      { "code": "BR", "name": "Bihar" },
+      { "code": "CG", "name": "Chhattisgarh" },
+      { "code": "GA", "name": "Goa" },
+      { "code": "GJ", "name": "Gujarat" },
+      { "code": "HR", "name": "Haryana" },
+      { "code": "HP", "name": "Himachal Pradesh" },
+      { "code": "JK", "name": "Jammu and Kashmir" },
+      { "code": "JH", "name": "Jharkhand" },
+      { "code": "KA", "name": "Karnataka" },
+      { "code": "KL", "name": "Kerala" },
+      { "code": "MP", "name": "Madhya Pradesh" },
+      { "code": "MH", "name": "Maharashtra" },
+      { "code": "MN", "name": "Manipur" },
+      { "code": "ML", "name": "Meghalaya" },
+      { "code": "MZ", "name": "Mizoram" },
+      { "code": "NL", "name": "Nagaland" },
+      { "code": "OR", "name": "Odisha" },
+      { "code": "PB", "name": "Punjab" },
+      { "code": "RJ", "name": "Rajasthan" },
+      { "code": "SK", "name": "Sikkim" },
+      { "code": "TN", "name": "Tamil Nadu" },
+      { "code": "TG", "name": "Telangana" },
+      { "code": "TR", "name": "Tripura" },
+      { "code": "UP", "name": "Uttar Pradesh" },
+      { "code": "UT", "name": "Uttarakhand" },
+      { "code": "WB", "name": "West Bengal" },
+      { "code": "AN", "name": "Andaman and Nicobar Islands" },
+      { "code": "CH", "name": "Chandigarh" },
+      { "code": "DN", "name": "Dadra and Nagar Haveli" },
+      { "code": "DD", "name": "Daman and Diu" },
+      { "code": "DL", "name": "Delhi" },
+      { "code": "LD", "name": "Lakshadweep" },
+      { "code": "PY", "name": "Puducherry" }
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "iso2": "ID",
+    "states": [
+      { "code": "ID-JK", "name": "Jakarta" },
+      { "code": "ID-JI", "name": "East Java" },
+      { "code": "ID-JT", "name": "Central Java" },
+      { "code": "ID-BT", "name": "Banten" }
+    ]
+  },
+  {
+    "name": "Iran",
+    "iso2": "IR",
+    "states": [
+      { "code": "IR-01", "name": "East Azerbaijan" },
+      { "code": "IR-02", "name": "West Azerbaijan" },
+      { "code": "IR-23", "name": "Tehran" }
+    ]
+  },
+  {
+    "name": "Iraq",
+    "iso2": "IQ",
+    "states": [
+      { "code": "IQ-AN", "name": "Al Anbar" },
+      { "code": "IQ-BA", "name": "Baghdad" }
+    ]
+  }
+  {
+    "name": "Ireland",
+    "iso2": "IE",
+    "states": [
+      { "code": "IE-CW", "name": "Carlow" },
+      { "code": "IE-D", "name": "Dublin" },
+      { "code": "IE-CN", "name": "Cavan" }
+    ]
+  },
+  {
+    "name": "Israel",
+    "iso2": "IL",
+    "states": [
+      { "code": "IL-TA", "name": "Tel Aviv" },
+      { "code": "IL-JM", "name": "Jerusalem" },
+      { "code": "IL-HA", "name": "Haifa" }
+    ]
+  },
+  {
+    "name": "Italy",
+    "iso2": "IT",
+    "states": [
+      { "code": "IT-62", "name": "Lazio" },
+      { "code": "IT-25", "name": "Lombardy" },
+      { "code": "IT-52", "name": "Tuscany" }
+    ]
+  },
+  {
+    "name": "Jamaica",
+    "iso2": "JM",
+    "states": [
+      { "code": "JM-01", "name": "Kingston" },
+      { "code": "JM-04", "name": "Portland" }
+    ]
+  },
+  {
+    "name": "Japan",
+    "iso2": "JP",
+    "states": [
+      { "code": "JP-13", "name": "Tokyo" },
+      { "code": "JP-27", "name": "Osaka" },
+      { "code": "JP-23", "name": "Aichi" }
+    ]
+  },
+  {
+    "name": "Jordan",
+    "iso2": "JO",
+    "states": [
+      { "code": "JO-AM", "name": "Amman" },
+      { "code": "JO-MA", "name": "Ma’an" }
+    ]
+  },
+  {
+    "name": "Kazakhstan",
+    "iso2": "KZ",
+    "states": [
+      { "code": "KZ-ALA", "name": "Almaty" },
+      { "code": "KZ-AST", "name": "Astana" },
+      { "code": "KZ-KAR", "name": "Karagandy" }
+    ]
+  },
+  {
+    "name": "Kenya",
+    "iso2": "KE",
+    "states": [
+      { "code": "KE-01", "name": "Mombasa" },
+      { "code": "KE-02", "name": "Kwale" },
+      { "code": "KE-47", "name": "Nairobi" }
+    ]
+  },
+  {
+    "name": "Kiribati",
+    "iso2": "KI",
+    "states": [
+      { "code": "KI-G", "name": "Gilbert Islands" },
+      { "code": "KI-L", "name": "Line Islands" }
+    ]
+  },
+  {
+    "name": "Kuwait",
+    "iso2": "KW",
+    "states": [
+      { "code": "KW-AH", "name": "Al Ahmadi" },
+      { "code": "KW-FA", "name": "Al Farwaniyah" }
+    ]
+  },
+  {
+    "name": "Kyrgyzstan",
+    "iso2": "KG",
+    "states": [
+      { "code": "KG-GB", "name": "Bishkek" },
+      { "code": "KG-J", "name": "Jalal-Abad" }
+    ]
+  },
+  {
+    "name": "Laos",
+    "iso2": "LA",
+    "states": [
+      { "code": "LA-VT", "name": "Vientiane" },
+      { "code": "LA-SL", "name": "Salavan" }
+    ]
+  },
+  {
+    "name": "Latvia",
+    "iso2": "LV",
+    "states": [
+      { "code": "LV-RIX", "name": "Riga" },
+      { "code": "LV-DGV", "name": "Daugavpils" }
+    ]
+  },
+  {
+    "name": "Lebanon",
+    "iso2": "LB",
+    "states": [
+      { "code": "LB-AS", "name": "South" },
+      { "code": "LB-BA", "name": "Beirut" }
+    ]
+  },
+  {
+    "name": "Lesotho",
+    "iso2": "LS",
+    "states": [
+      { "code": "LS-A", "name": "Maseru" },
+      { "code": "LS-D", "name": "Leribe" }
+    ]
+  },
+  {
+    "name": "Liberia",
+    "iso2": "LR",
+    "states": [
+      { "code": "LR-MO", "name": "Montserrado" },
+      { "code": "LR-BM", "name": "Bomi" }
+    ]
+  },
+  {
+    "name": "Libya",
+    "iso2": "LY",
+    "states": [
+      { "code": "LY-BU", "name": "Benghazi" },
+      { "code": "LY-TB", "name": "Tripoli" }
+    ]
+  },
+  {
+    "name": "Liechtenstein",
+    "iso2": "LI",
+    "states": [
+      { "code": "LI-01", "name": "Balzers" },
+      { "code": "LI-02", "name": "Eschen" }
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "iso2": "LT",
+    "states": [
+      { "code": "LT-VL", "name": "Vilnius" },
+      { "code": "LT-KL", "name": "Klaipėda" }
+    ]
+  },
+  {
+    "name": "Luxembourg",
+    "iso2": "LU",
+    "states": [
+      { "code": "LU-DI", "name": "Diekirch" },
+      { "code": "LU-GR", "name": "Grevenmacher" }
+    ]
+  }
+  {
+    "name": "Madagascar",
+    "iso2": "MG",
+    "states": [
+      { "code": "MG-T", "name": "Toamasina" },
+      { "code": "MG-A", "name": "Antananarivo" }
+    ]
+  },
+  {
+    "name": "Malawi",
+    "iso2": "MW",
+    "states": [
+      { "code": "MW-C", "name": "Central Region" },
+      { "code": "MW-N", "name": "Northern Region" }
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "iso2": "MY",
+    "states": [
+      { "code": "MY-14", "name": "Kuala Lumpur" },
+      { "code": "MY-06", "name": "Malacca" },
+      { "code": "MY-13", "name": "Sarawak" }
+    ]
+  },
+  {
+    "name": "Maldives",
+    "iso2": "MV",
+    "states": [
+      { "code": "MV-MLE", "name": "Malé" },
+      { "code": "MV-02", "name": "South Ari Atoll" }
+    ]
+  },
+  {
+    "name": "Mali",
+    "iso2": "ML",
+    "states": [
+      { "code": "ML-BKO", "name": "Bamako" },
+      { "code": "ML-KD", "name": "Kidal" }
+    ]
+  },
+  {
+    "name": "Malta",
+    "iso2": "MT",
+    "states": [
+      { "code": "MT-01", "name": "Attard" },
+      { "code": "MT-60", "name": "Valletta" }
+    ]
+  },
+  {
+    "name": "Marshall Islands",
+    "iso2": "MH",
+    "states": [
+      { "code": "MH-MAJ", "name": "Majuro" },
+      { "code": "MH-ALL", "name": "Ailinglaplap" }
+    ]
+  },
+  {
+    "name": "Mauritania",
+    "iso2": "MR",
+    "states": [
+      { "code": "MR-NKC", "name": "Nouakchott" },
+      { "code": "MR-TR", "name": "Trarza" }
+    ]
+  },
+  {
+    "name": "Mauritius",
+    "iso2": "MU",
+    "states": [
+      { "code": "MU-BL", "name": "Black River" },
+      { "code": "MU-PU", "name": "Port Louis" }
+    ]
+  },
+  {
+    "name": "Mexico",
+    "iso2": "MX",
+    "states": [
+      { "code": "MX-CMX", "name": "Mexico City" },
+      { "code": "MX-JAL", "name": "Jalisco" },
+      { "code": "MX-NLE", "name": "Nuevo León" }
+    ]
+  },
+  {
+    "name": "Micronesia",
+    "iso2": "FM",
+    "states": [
+      { "code": "FM-KSA", "name": "Kosrae" },
+      { "code": "FM-PNI", "name": "Pohnpei" }
+    ]
+  },
+  {
+    "name": "Moldova",
+    "iso2": "MD",
+    "states": [
+      { "code": "MD-AN", "name": "Anenii Noi" },
+      { "code": "MD-GL", "name": "Gagauzia" }
+    ]
+  },
+  {
+    "name": "Monaco",
+    "iso2": "MC",
+    "states": [
+      { "code": "MC-CL", "name": "La Colle" },
+      { "code": "MC-MG", "name": "Monte-Carlo" }
+    ]
+  },
+  {
+    "name": "Mongolia",
+    "iso2": "MN",
+    "states": [
+      { "code": "MN-1", "name": "Ulaanbaatar" },
+      { "code": "MN-7", "name": "Dornogovi" }
+    ]
+  },
+  {
+    "name": "Montenegro",
+    "iso2": "ME",
+    "states": [
+      { "code": "ME-01", "name": "Andrijevica" },
+      { "code": "ME-02", "name": "Bar" }
+    ]
+  },
+  {
+    "name": "Morocco",
+    "iso2": "MA",
+    "states": [
+      { "code": "MA-01", "name": "Tangier-Tetouan-Al Hoceima" },
+      { "code": "MA-02", "name": "Oriental" },
+      { "code": "MA-06", "name": "Casablanca-Settat" }
+    ]
+  },
+  {
+    "name": "Mozambique",
+    "iso2": "MZ",
+    "states": [
+      { "code": "MZ-MPM", "name": "Maputo" },
+      { "code": "MZ-GZ", "name": "Gaza" }
+    ]
+  },
+  {
+    "name": "Myanmar",
+    "iso2": "MM",
+    "states": [
+      { "code": "MM-06", "name": "Yangon" },
+      { "code": "MM-16", "name": "Mandalay" }
+    ]
+  },
+  {
+    "name": "Namibia",
+    "iso2": "NA",
+    "states": [
+      { "code": "NA-CA", "name": "Caprivi" },
+      { "code": "NA-ER", "name": "Erongo" }
+    ]
+  },
+  {
+    "name": "Nauru",
+    "iso2": "NR",
+    "states": [
+      { "code": "NR-01", "name": "Aiwo" },
+      { "code": "NR-02", "name": "Anabar" }
+    ]
+  }
+  {
+    "name": "Nepal",
+    "iso2": "NP",
+    "states": [
+      { "code": "1", "name": "Koshi Province" },
+      { "code": "2", "name": "Madhesh Province" },
+      { "code": "3", "name": "Bagmati Province" },
+      { "code": "4", "name": "Gandaki Province" },
+      { "code": "5", "name": "Lumbini Province" },
+      { "code": "6", "name": "Karnali Province" },
+      { "code": "7", "name": "Sudurpashchim Province" }
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "iso2": "NL",
+    "states": [
+      { "code": "NL-NH", "name": "North Holland" },
+      { "code": "NL-ZH", "name": "South Holland" },
+      { "code": "NL-UT", "name": "Utrecht" }
+    ]
+  },
+  {
+    "name": "New Zealand",
+    "iso2": "NZ",
+    "states": [
+      { "code": "NZ-AUK", "name": "Auckland" },
+      { "code": "NZ-CAN", "name": "Canterbury" },
+      { "code": "NZ-WGN", "name": "Wellington" }
+    ]
+  },
+  {
+    "name": "Nicaragua",
+    "iso2": "NI",
+    "states": [
+      { "code": "NI-MN", "name": "Managua" },
+      { "code": "NI-LE", "name": "León" }
+    ]
+  },
+  {
+    "name": "Niger",
+    "iso2": "NE",
+    "states": [
+      { "code": "NE-1", "name": "Agadez" },
+      { "code": "NE-8", "name": "Niamey" }
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "iso2": "NG",
+    "states": [
+      { "code": "NG-LA", "name": "Lagos" },
+      { "code": "NG-KD", "name": "Kaduna" },
+      { "code": "NG-RV", "name": "Rivers" }
+    ]
+  },
+  {
+    "name": "North Korea",
+    "iso2": "KP",
+    "states": [
+      { "code": "KP-01", "name": "Pyongyang" },
+      { "code": "KP-06", "name": "South Pyongan" }
+    ]
+  },
+  {
+    "name": "North Macedonia",
+    "iso2": "MK",
+    "states": [
+      { "code": "MK-85", "name": "Skopje" },
+      { "code": "MK-03", "name": "Bitola" }
+    ]
+  },
+  {
+    "name": "Norway",
+    "iso2": "NO",
+    "states": [
+      { "code": "NO-03", "name": "Oslo" },
+      { "code": "NO-11", "name": "Rogaland" },
+      { "code": "NO-15", "name": "Møre og Romsdal" }
+    ]
+  },
+  {
+    "name": "Oman",
+    "iso2": "OM",
+    "states": [
+      { "code": "OM-MA", "name": "Muscat" },
+      { "code": "OM-ZA", "name": "Dhofar" }
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "iso2": "PK",
+    "states": [
+      { "code": "PK-PB", "name": "Punjab" },
+      { "code": "PK-SD", "name": "Sindh" },
+      { "code": "PK-KP", "name": "Khyber Pakhtunkhwa" },
+      { "code": "PK-BA", "name": "Balochistan" }
+    ]
+  },
+  {
+    "name": "Palau",
+    "iso2": "PW",
+    "states": [
+      { "code": "PW-002", "name": "Aimeliik" },
+      { "code": "PW-004", "name": "Airai" }
+    ]
+  },
+  {
+    "name": "Panama",
+    "iso2": "PA",
+    "states": [
+      { "code": "PA-1", "name": "Bocas del Toro" },
+      { "code": "PA-8", "name": "Panamá" }
+    ]
+  },
+  {
+    "name": "Papua New Guinea",
+    "iso2": "PG",
+    "states": [
+      { "code": "PG-NCD", "name": "Port Moresby" },
+      { "code": "PG-CPM", "name": "Central" }
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "iso2": "PY",
+    "states": [
+      { "code": "PY-11", "name": "Central" },
+      { "code": "PY-10", "name": "Alto Paraná" }
+    ]
+  },
+  {
+    "name": "Peru",
+    "iso2": "PE",
+    "states": [
+      { "code": "PE-LIM", "name": "Lima" },
+      { "code": "PE-CUS", "name": "Cusco" },
+      { "code": "PE-ARE", "name": "Arequipa" }
+    ]
+  },
+  {
+    "name": "Philippines",
+    "iso2": "PH",
+    "states": [
+      { "code": "PH-00", "name": "National Capital Region" },
+      { "code": "PH-03", "name": "Central Luzon" },
+      { "code": "PH-05", "name": "Bicol Region" }
+    ]
+  },
+  {
+    "name": "Poland",
+    "iso2": "PL",
+    "states": [
+      { "code": "PL-MZ", "name": "Mazovia" },
+      { "code": "PL-MA", "name": "Lesser Poland" },
+      { "code": "PL-DS", "name": "Lower Silesia" }
+    ]
+  },
+  {
+    "name": "Portugal",
+    "iso2": "PT",
+    "states": [
+      { "code": "PT-11", "name": "Lisbon" },
+      { "code": "PT-03", "name": "Braga" },
+      { "code": "PT-15", "name": "Setúbal" }
+    ]
+  },
+  {
+    "name": "Qatar",
+    "iso2": "QA",
+    "states": [
+      { "code": "QA-DA", "name": "Ad Dawhah" },
+      { "code": "QA-KH", "name": "Al Khor" }
+    ]
+  }
+  {
+    "name": "Romania",
+    "iso2": "RO",
+    "states": [
+      { "code": "RO-B", "name": "Bucharest" },
+      { "code": "RO-CJ", "name": "Cluj" },
+      { "code": "RO-IS", "name": "Iași" }
+    ]
+  },
+  {
+    "name": "Russia",
+    "iso2": "RU",
+    "states": [
+      { "code": "RU-MOW", "name": "Moscow" },
+      { "code": "RU-SPE", "name": "Saint Petersburg" },
+      { "code": "RU-TA", "name": "Tatarstan" }
+    ]
+  },
+  {
+    "name": "Rwanda",
+    "iso2": "RW",
+    "states": [
+      { "code": "RW-01", "name": "Kigali" },
+      { "code": "RW-05", "name": "Western Province" }
+    ]
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "iso2": "KN",
+    "states": [
+      { "code": "KN-01", "name": "Christ Church Nichola Town" },
+      { "code": "KN-05", "name": "Saint John Capisterre" }
+    ]
+  },
+  {
+    "name": "Saint Lucia",
+    "iso2": "LC",
+    "states": [
+      { "code": "LC-01", "name": "Anse la Raye" },
+      { "code": "LC-05", "name": "Dennery" }
+    ]
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "iso2": "VC",
+    "states": [
+      { "code": "VC-01", "name": "Charlotte" },
+      { "code": "VC-02", "name": "Saint Andrew" }
+    ]
+  },
+  {
+    "name": "Samoa",
+    "iso2": "WS",
+    "states": [
+      { "code": "WS-AA", "name": "A'ana" },
+      { "code": "WS-AL", "name": "Aiga-i-le-Tai" }
+    ]
+  },
+  {
+    "name": "San Marino",
+    "iso2": "SM",
+    "states": [
+      { "code": "SM-01", "name": "Acquaviva" },
+      { "code": "SM-02", "name": "Borgo Maggiore" }
+    ]
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "iso2": "ST",
+    "states": [
+      { "code": "ST-P", "name": "Príncipe" },
+      { "code": "ST-S", "name": "São Tomé" }
+    ]
+  },
+  {
+    "name": "Saudi Arabia",
+    "iso2": "SA",
+    "states": [
+      { "code": "SA-01", "name": "Riyadh" },
+      { "code": "SA-02", "name": "Makkah" },
+      { "code": "SA-04", "name": "Eastern Province" }
+    ]
+  },
+  {
+    "name": "Senegal",
+    "iso2": "SN",
+    "states": [
+      { "code": "SN-DK", "name": "Dakar" },
+      { "code": "SN-TL", "name": "Thiès" }
+    ]
+  },
+  {
+    "name": "Serbia",
+    "iso2": "RS",
+    "states": [
+      { "code": "RS-00", "name": "Belgrade" },
+      { "code": "RS-03", "name": "Nišava" }
+    ]
+  },
+  {
+    "name": "Seychelles",
+    "iso2": "SC",
+    "states": [
+      { "code": "SC-01", "name": "Anse aux Pins" },
+      { "code": "SC-03", "name": "Anse Royale" }
+    ]
+  },
+  {
+    "name": "Sierra Leone",
+    "iso2": "SL",
+    "states": [
+      { "code": "SL-E", "name": "Eastern Province" },
+      { "code": "SL-N", "name": "Northern Province" }
+    ]
+  },
+  {
+    "name": "Singapore",
+    "iso2": "SG",
+    "states": [
+      { "code": "SG-01", "name": "Central Region" },
+      { "code": "SG-02", "name": "East Region" },
+      { "code": "SG-03", "name": "North Region" }
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "iso2": "SK",
+    "states": [
+      { "code": "SK-BC", "name": "Banská Bystrica" },
+      { "code": "SK-BL", "name": "Bratislava" }
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "iso2": "SI",
+    "states": [
+      { "code": "SI-01", "name": "Ajdovščina" },
+      { "code": "SI-02", "name": "Beltinci" }
+    ]
+  },
+  {
+    "name": "Solomon Islands",
+    "iso2": "SB",
+    "states": [
+      { "code": "SB-CT", "name": "Central" },
+      { "code": "SB-ML", "name": "Malaita" }
+    ]
+  },
+  {
+    "name": "Somalia",
+    "iso2": "SO",
+    "states": [
+      { "code": "SO-AW", "name": "Awdal" },
+      { "code": "SO-BN", "name": "Banaadir" }
+    ]
+  },
+  {
+    "name": "South Africa",
+    "iso2": "ZA",
+    "states": [
+      { "code": "ZA-GP", "name": "Gauteng" },
+      { "code": "ZA-KZN", "name": "KwaZulu-Natal" },
+      { "code": "ZA-WC", "name": "Western Cape" }
+    ]
+  }
+  {
+    "name": "South Korea",
+    "iso2": "KR",
+    "states": [
+      { "code": "KR-11", "name": "Seoul" },
+      { "code": "KR-26", "name": "Busan" },
+      { "code": "KR-41", "name": "Gyeonggi" }
+    ]
+  },
+  {
+    "name": "South Sudan",
+    "iso2": "SS",
+    "states": [
+      { "code": "SS-EC", "name": "Central Equatoria" },
+      { "code": "SS-WR", "name": "Warrap" }
+    ]
+  },
+  {
+    "name": "Spain",
+    "iso2": "ES",
+    "states": [
+      { "code": "ES-MD", "name": "Madrid" },
+      { "code": "ES-CT", "name": "Catalonia" },
+      { "code": "ES-AN", "name": "Andalusia" }
+    ]
+  },
+  {
+    "name": "Sri Lanka",
+    "iso2": "LK",
+    "states": [
+      { "code": "LK-11", "name": "Colombo" },
+      { "code": "LK-21", "name": "Galle" },
+      { "code": "LK-31", "name": "Kandy" }
+    ]
+  },
+  {
+    "name": "Sudan",
+    "iso2": "SD",
+    "states": [
+      { "code": "SD-KH", "name": "Khartoum" },
+      { "code": "SD-GD", "name": "Gedaref" }
+    ]
+  },
+  {
+    "name": "Suriname",
+    "iso2": "SR",
+    "states": [
+      { "code": "SR-PM", "name": "Paramaribo" },
+      { "code": "SR-NI", "name": "Nickerie" }
+    ]
+  },
+  {
+    "name": "Sweden",
+    "iso2": "SE",
+    "states": [
+      { "code": "SE-AB", "name": "Stockholm" },
+      { "code": "SE-O", "name": "Västra Götaland" }
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "iso2": "CH",
+    "states": [
+      { "code": "CH-ZH", "name": "Zürich" },
+      { "code": "CH-GE", "name": "Geneva" }
+    ]
+  },
+  {
+    "name": "Syria",
+    "iso2": "SY",
+    "states": [
+      { "code": "SY-DI", "name": "Damascus" },
+      { "code": "SY-HL", "name": "Aleppo" }
+    ]
+  },
+  {
+    "name": "Taiwan",
+    "iso2": "TW",
+    "states": [
+      { "code": "TW-TPE", "name": "Taipei" },
+      { "code": "TW-KHH", "name": "Kaohsiung" }
+    ]
+  },
+  {
+    "name": "Tajikistan",
+    "iso2": "TJ",
+    "states": [
+      { "code": "TJ-DU", "name": "Dushanbe" },
+      { "code": "TJ-GB", "name": "Gorno-Badakhshan" }
+    ]
+  },
+  {
+    "name": "Tanzania",
+    "iso2": "TZ",
+    "states": [
+      { "code": "TZ-01", "name": "Arusha" },
+      { "code": "TZ-02", "name": "Dar es Salaam" }
+    ]
+  },
+  {
+    "name": "Thailand",
+    "iso2": "TH",
+    "states": [
+      { "code": "TH-10", "name": "Bangkok" },
+      { "code": "TH-40", "name": "Khon Kaen" },
+      { "code": "TH-50", "name": "Chiang Mai" }
+    ]
+  },
+  {
+    "name": "Timor-Leste",
+    "iso2": "TL",
+    "states": [
+      { "code": "TL-AL", "name": "Aileu" },
+      { "code": "TL-AN", "name": "Ainaro" }
+    ]
+  },
+  {
+    "name": "Togo",
+    "iso2": "TG",
+    "states": [
+      { "code": "TG-C", "name": "Centrale" },
+      { "code": "TG-M", "name": "Maritime" }
+    ]
+  },
+  {
+    "name": "Tonga",
+    "iso2": "TO",
+    "states": [
+      { "code": "TO-04", "name": "Ha'apai" },
+      { "code": "TO-02", "name": "Tongatapu" }
+    ]
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "iso2": "TT",
+    "states": [
+      { "code": "TT-CHA", "name": "Chaguanas" },
+      { "code": "TT-POS", "name": "Port of Spain" }
+    ]
+  },
+  {
+    "name": "Tunisia",
+    "iso2": "TN",
+    "states": [
+      { "code": "TN-11", "name": "Tunis" },
+      { "code": "TN-81", "name": "Sfax" }
+    ]
+  },
+  {
+    "name": "Turkey",
+    "iso2": "TR",
+    "states": [
+      { "code": "TR-34", "name": "Istanbul" },
+      { "code": "TR-06", "name": "Ankara" },
+      { "code": "TR-35", "name": "Izmir" }
+    ]
+  },
+  {
+    "name": "Turkmenistan",
+    "iso2": "TM",
+    "states": [
+      { "code": "TM-AH", "name": "Ahal" },
+      { "code": "TM-BL", "name": "Balkan" }
+    ]
+  }
+  {
+    "name": "Tuvalu",
+    "iso2": "TV",
+    "states": [
+      { "code": "TV-FUN", "name": "Funafuti" },
+      { "code": "TV-NMA", "name": "Nanumea" }
+    ]
+  },
+  {
+    "name": "Uganda",
+    "iso2": "UG",
+    "states": [
+      { "code": "UG-C", "name": "Central Region" },
+      { "code": "UG-W", "name": "Western Region" }
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "iso2": "UA",
+    "states": [
+      { "code": "UA-30", "name": "Kyiv" },
+      { "code": "UA-46", "name": "Lviv" },
+      { "code": "UA-14", "name": "Donetsk" }
+    ]
+  },
+  {
+    "name": "United Arab Emirates",
+    "iso2": "AE",
+    "states": [
+      { "code": "AE-AZ", "name": "Abu Dhabi" },
+      { "code": "AE-DU", "name": "Dubai" },
+      { "code": "AE-SH", "name": "Sharjah" }
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "iso2": "GB",
+    "states": [
+      { "code": "GB-ENG", "name": "England" },
+      { "code": "GB-SCT", "name": "Scotland" },
+      { "code": "GB-WLS", "name": "Wales" },
+      { "code": "GB-NIR", "name": "Northern Ireland" }
+    ]
+  },
+  {
+    "name": "United States",
+    "iso2": "US",
+    "states": [
+      { "code": "US-CA", "name": "California" },
+      { "code": "US-TX", "name": "Texas" },
+      { "code": "US-FL", "name": "Florida" },
+      { "code": "US-NY", "name": "New York" },
+      { "code": "US-IL", "name": "Illinois" },
+      { "code": "US-PA", "name": "Pennsylvania" }
+    ]
+  },
+  {
+    "name": "Uruguay",
+    "iso2": "UY",
+    "states": [
+      { "code": "UY-MO", "name": "Montevideo" },
+      { "code": "UY-CA", "name": "Canelones" }
+    ]
+  },
+  {
+    "name": "Uzbekistan",
+    "iso2": "UZ",
+    "states": [
+      { "code": "UZ-TK", "name": "Tashkent" },
+      { "code": "UZ-QR", "name": "Qashqadaryo" }
+    ]
+  },
+  {
+    "name": "Vanuatu",
+    "iso2": "VU",
+    "states": [
+      { "code": "VU-MA", "name": "Malampa" },
+      { "code": "VU-SA", "name": "Sanma" }
+    ]
+  },
+  {
+    "name": "Vatican City",
+    "iso2": "VA",
+    "states": [
+      { "code": "VA-01", "name": "Vatican City" }
+    ]
+  },
+  {
+    "name": "Venezuela",
+    "iso2": "VE",
+    "states": [
+      { "code": "VE-A", "name": "Distrito Capital" },
+      { "code": "VE-B", "name": "Anzoátegui" }
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "iso2": "VN",
+    "states": [
+      { "code": "VN-HN", "name": "Hanoi" },
+      { "code": "VN-SG", "name": "Ho Chi Minh City" }
+    ]
+  },
+  {
+    "name": "Yemen",
+    "iso2": "YE",
+    "states": [
+      { "code": "YE-AM", "name": "Amran" },
+      { "code": "YE-SN", "name": "Saada" }
+    ]
+  },
+  {
+    "name": "Zambia",
+    "iso2": "ZM",
+    "states": [
+      { "code": "ZM-01", "name": "Central Province" },
+      { "code": "ZM-02", "name": "Copperbelt Province" }
+    ]
+  },
+  {
+    "name": "Zimbabwe",
+    "iso2": "ZW",
+    "states": [
+      { "code": "ZW-BU", "name": "Bulawayo" },
+      { "code": "ZW-HA", "name": "Harare" }
+    ]
+  }
+
+]
