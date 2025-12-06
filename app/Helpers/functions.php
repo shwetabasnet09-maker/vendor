@@ -106,6 +106,7 @@ function get_address(){
     $user = User::find($user_id);
     return $user;
 }
+
 function save_address($request){
     $user_id = auth()->user()->id;
     $user = User::find($user_id);
